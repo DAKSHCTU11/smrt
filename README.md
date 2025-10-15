@@ -1,3 +1,5 @@
+Vercel link:https://project-5-nv47orp0f-dakshctu11-gmailcoms-projects.vercel.app/
+The WEBSITE IS SUCCESFULLY DEPLOYED AND RUNNING LIVE 
 # Smart Recipe Generator
 
 ## Table of Contents
